@@ -1,0 +1,10 @@
+QCM1-d 
+QCM2-d
+QCM3-c
+QCM4-b
+QCM5-e
+QCM6-d
+QCM7-a
+QCM8-e
+QCM9-d 
+QCM10-d
